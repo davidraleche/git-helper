@@ -22,6 +22,9 @@ Downloads the latest from remote without trying to merge or rebase anything.
 ### COMMIT
 `git commit -m ‘My commit David Raleche’`
 
+### Amend a COMMIT
+git commit --amend
+
 ### remove git add 
 `git reset HEAD -file-`
 
