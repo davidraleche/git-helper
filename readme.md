@@ -51,3 +51,17 @@ git push origin  <branch>
 
 ### GIT CHECKOUT SOMEONE ELSE REPO
 `git checkout --track origin/ECOM-307`
+
+
+
+### Git Diff
+`git diff –name-only –diff-filter=U`
+
+
+
+### Git log HELPER
+
+`git log –graph` 
+`git log –oneline`
+
+
