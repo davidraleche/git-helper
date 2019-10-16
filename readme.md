@@ -1,5 +1,5 @@
 ### SETUP REMOTE GIT
-```
+`
  git init
  git add .
  git status
@@ -7,13 +7,13 @@
  git remote add origin git@github.com:davidraleche/david.raleche.com.git
  git remote -v
  git push -u origin master
- ```
+`
  
  ### Add Key to github
-```
+`
 cat ~/.ssh/authorized_keys 
 cat ~/.ssh/known_hosts 
-```
+`
 
 ### SYNC GIT
 `git remote update`
