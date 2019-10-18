@@ -1,3 +1,6 @@
+git repack
+
+
 ### SETUP REMOTE GIT
 ```
  git init
