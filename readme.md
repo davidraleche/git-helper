@@ -7,7 +7,7 @@ git repack
  git add .
  git status
  git commit -m "First commit"
- git remote add origin git@github.com:davidraleche/david.raleche.com.git
+ git remote add origin git@github.com:xxxxxx/xxxxxxx.git
  git remote -v
  git push -u origin master
 ```
